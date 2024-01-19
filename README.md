@@ -1,2 +1,2 @@
-# tienda_JN
+# tienda_Jn
  tienda
